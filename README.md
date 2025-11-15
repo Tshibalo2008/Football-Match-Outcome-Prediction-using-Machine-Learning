@@ -22,7 +22,7 @@ While the subject matter is sports-related, the underlying data science approach
 
 Microsoft Excel for Data Cleaning
 
-Jupyter Notebbok (Python) for model building and testing
+Jupyter Notebbok (Python) for model building, testing, and predicting future outcomes
 
 # Model Overview
 
